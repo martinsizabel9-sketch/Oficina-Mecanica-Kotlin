@@ -30,5 +30,6 @@ fun main() {
     println("Placa: ${ordem.veiculo.placa}")
     println("Status: ${ordem.descricaoStatus()}")
     println("Subtotal: R$ %.2f".format(ordem.calcularSubtotal()))
+    println("Desconto à vista: 5%")
     println("Total: R$ %.2f".format(ordem.calcularTotal()))
 }
