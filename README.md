@@ -31,7 +31,7 @@ Desenvolver um sistema simples para controle de ordem de serviço de uma oficina
 
 1. Orçamento
 2. Em Conserto
-3. Testes
+3. Fase de Testes
 4. Finalizado
 
 ## Autora
